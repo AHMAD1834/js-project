@@ -1,0 +1,35 @@
+button{
+    margin-top: 50px;
+    align-items: center;
+    color: white;
+    background-color: chocolate;
+    padding : 30px 30px 30px 30px;
+    border: 2px solid white;
+    border-radius: 10px;
+    cursor: pointer;
+    
+} 
+ * {
+    background-color: black;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    width: 30%;
+}
+
+.btn {
+
+    background-color: chocolate;
+    padding: 20px 20px 20px 20px;
+    border: 2px solid white;
+    border-radius: 20px;
+    cursor: pointer;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
